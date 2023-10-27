@@ -1,6 +1,6 @@
 # Code Smell Detection Approaches Based on Supervised Learning Models: A Survey
 # Data and Code Repository
-
+Due to copyright and other issues, only a portion of the paper was uploaded.
 This repository contains the relevant data and analysis code for the papers we collected. Below is an overview of the repository's contents:
 
 ## Data Description
