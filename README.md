@@ -5,7 +5,7 @@ This repository contains the relevant data and analysis code for the papers we c
 
 ## Data Description
 
-The data file `data.csv` includes information about the collected papers, such as titles, authors, and more. 
+The data file `sum.csv` includes information about the collected papers, such as titles, authors, and more. 
 The data is stored in CSV format, and you can find the specific field meanings within the file.
 
 
