@@ -1,5 +1,9 @@
 # Code Smell Detection Approaches Based on Supervised Learning Models: A Survey
-Supervised learning-based approaches have become one of the dominant approaches for code smell detection. Existing works put efforts into optimizing the approaches from datasets, feature selection, models, etc. Although the accuracy is continuously improved, researchers are still confused about which model can obtain the best performance due to the different approaches to datasets construction and feature selection. In addition, existing code smell surveys mainly analyze and categorize the impact of code smell the concerns of code smell, the recognition, and repair of code smell, etc. There is a lack of systematic analysis and classification summary of code smell detection based on supervised learning. To this end, we collect 86 papers on code smell detection based on supervised learning published from January 2010 to April 2023
+Supervised learning-based approaches have become one of the dominant approaches for code smell detection. Existing works put efforts into optimizing the approaches from datasets, feature selection, models, etc. 
+
+Although the accuracy is continuously improved, researchers are still confused about which model can obtain the best performance due to the different approaches to datasets construction and feature selection. In addition, existing code smell surveys mainly analyze and categorize the impact of code smell the concerns of code smell, the recognition, and repair of code smell, etc. 
+
+There is a lack of systematic analysis and classification summary of code smell detection based on supervised learning. To this end, we collect 86 papers on code smell detection based on supervised learning published from January 2010 to April 2023.
 
 # Data and Code Repository
 Due to copyright and other issues, only a portion of the paper was uploaded.
